@@ -49,9 +49,6 @@ Developed by: RegisterNumber:212224220050
 ![Screenshot 2025-04-24 191339](https://github.com/user-attachments/assets/d4834bda-44be-4e5e-8f38-457765eb77e4)
 
 **Result:**
- Thus the given logic functions are implemented using and their operations are
- verified using Verilog programming.
-**Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
